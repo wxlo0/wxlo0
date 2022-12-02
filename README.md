@@ -9,6 +9,6 @@
 
 🏊 喜欢唱跳rap和篮球中的篮球和唱歌, 现在在学习swimming
 
-💻 最近在做(Django rest framework 相关教程)[https://github.com/Tengxu666/drf_pro] 欢迎Star🌟 
+💻 最近在做[Django rest framework 相关教程](https://github.com/Tengxu666/drf_pro) 欢迎Star🌟 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Tengxu666&show_icons=true)
