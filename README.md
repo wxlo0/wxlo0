@@ -1,4 +1,4 @@
-[![Blog Badge](https://img.shields.io/badge/blog-15k%20pageview-brightgreen)](https://blog.csdn.net/weixin_51098806) 
+[![Blog Badge](https://img.shields.io/badge/blog-150k%20pageview-brightgreen)](https://blog.csdn.net/weixin_51098806) 
 [![Mail Badge](https://img.shields.io/badge/-tengxu.owen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tengxu.owen@gmail.com)](mailto:tengxu.owen@gmail.com)
 
 👋 Hi, 我是Clyde
