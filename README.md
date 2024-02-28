@@ -9,4 +9,4 @@
 
 💻 最近正在学习云原生方面的知识，欢迎指教
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Tengxu666&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=wxlo0&show_icons=true)
